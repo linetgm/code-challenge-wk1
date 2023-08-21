@@ -1,5 +1,3 @@
-   # Function positive_count with three arguments
-
 def positive_count(a, b, c):
    
     positive_nums = [num for num in (a, b, c) if num > 0]
